@@ -31,7 +31,7 @@ phynx migrate
 ```
 
 
-Alternative configurations:
+## Alternative configurations:
 
 * change migrations directory (db/migrations by default)
 
