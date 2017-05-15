@@ -1,0 +1,6 @@
+{
+    "name": "romag/phinx_demo",
+    "require": {
+        "robmorgan/phinx": "^0.8.0"
+    }
+}
